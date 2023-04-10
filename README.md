@@ -27,8 +27,10 @@
 
 **Data Visualization with Tableau**
 * [Supersotre Sales Dashboard:](https://public.tableau.com/app/profile/rohith7195/viz/SalesDashboard_16811394803280/Dashboard1) Developed an interactive dashboard using the sales data from the Global Superstore.
-* [Covid-19:](https://public.tableau.com/app/profile/rohith7195/viz/Covid-19_16811358965140/Dashboard1) Dynamic data visualization using the COVID-19 dataset.
-* [New York - Airbnb:](https://public.tableau.com/app/profile/rohith7195/viz/NewYork-Airbnb/NYAirbnb) Dynamic visualization of Airbnb data in New York for the period 2008 - 2015.
 * [Dow Jones Technical Analysis:](https://public.tableau.com/app/profile/rohith7195/viz/DowJonesTechnicalAnalysis_16753378698510/DowJonesTechnialAnalysis) Dynamic visualization for technical analysis of stock data from Dow Jones.
+* [New York - Airbnb:](https://public.tableau.com/app/profile/rohith7195/viz/NewYork-Airbnb/NYAirbnb) Dynamic visualization of Airbnb data in New York for the period 2008 - 2015.
+* [Covid-19:](https://public.tableau.com/app/profile/rohith7195/viz/Covid-19_16811358965140/Dashboard1) Dynamic data visualization using the COVID-19 dataset.
+
+
 
 
