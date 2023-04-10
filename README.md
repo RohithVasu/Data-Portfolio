@@ -21,7 +21,14 @@
 * [Portfolio Optimization:](https://github.com/RohithVasu/Data-Portfolio/blob/main/EDA%20and%20Web%20Scraping/Portfolio%20Optimization.ipynb) Web Scraped stock data from Yahoo Finance and created a best portfolio optimization model for high returns.
 * [EPL Matches - Web Scraping:](https://github.com/RohithVasu/Data-Portfolio/blob/main/EDA%20and%20Web%20Scraping/Web%20Scraping%20Football%20Matches.ipynb) Created dataset of scores & fixtures and shooting data of Premier League football matches for the year 2022 and 2021 using Beautiful Soup and Pandas.
 
+**SQL Data Analysis**
+* [Covid-19 EDA:](https://github.com/RohithVasu/Data-Portfolio/blob/main/Data%20Analysis%20with%20SQL/Covid-19%20Data%20Exploration.sql) Utilized SQL to perform an exploratory data analysis on the COVID-19 dataset.
+* [Global Superstore EDA:](https://github.com/RohithVasu/Data-Portfolio/blob/main/Data%20Analysis%20with%20SQL/Global%20Superstore%20EDA.sql) Explored and analysed the Superstore sales data.
+
 **Data Visualization with Tableau**
-* [Dow Jones Technical Analysis:](https://public.tableau.com/app/profile/rohith7195/viz/DowJonesTechnicalAnalysis_16753378698510/DowJonesTechnialAnalysis) Dynamic visualization for technical analysis of stock data from Dow Jones.
+* [Supersotre Sales Dashboard:](https://public.tableau.com/app/profile/rohith7195/viz/SalesDashboard_16811394803280/Dashboard1) Developed an interactive dashboard using the sales data from the Global Superstore.
+* [Covid-19:](https://public.tableau.com/app/profile/rohith7195/viz/Covid-19_16811358965140/Dashboard1) Dynamic data visualization using the COVID-19 dataset.
 * [New York - Airbnb:](https://public.tableau.com/app/profile/rohith7195/viz/NewYork-Airbnb/NYAirbnb) Dynamic visualization of Airbnb data in New York for the period 2008 - 2015.
+* [Dow Jones Technical Analysis:](https://public.tableau.com/app/profile/rohith7195/viz/DowJonesTechnicalAnalysis_16753378698510/DowJonesTechnialAnalysis) Dynamic visualization for technical analysis of stock data from Dow Jones.
+
 
