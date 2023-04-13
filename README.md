@@ -1,11 +1,12 @@
 # **Data-Portfolio**
 
 ## **Skills**
-* **Programming Languages:** Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit – learn), R Programming
-* **Analytical and Data Visualization Tools:** Tableau, Advanced MS Excel
-* **Statistical Techniques:** Hypothesis testing, Monte Carlo Simulation
-* **Machine Learning:** Classification and Regression Algorithms, Statistical Inference, Exploratory Data Analysis, Clustering Techniques, Hyperparameter Tuning, Feature Selection
-* **Database:** SQL, Excel  
+* **Programming Languages:** Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit – learn), SQL
+* **Analytical and Data Visualization Tools:** Tableau, Advanced MS Excel (Pivot Tables, VLOOKUP, Macros)
+* **Statistical Analysis:** Hypothesis Testing, Regression Analysis, Time Series Analysis, Statistical Inference
+* **Machine Learning:** Classification and Regression Algorithms, Clustering Techniques, Hyperparameter Tuning, Feature Selection
+* **Database Management:** SQL (MySQL, PostgreSQL), ETL (Extract, Transform, Load)![image](https://user-images.githubusercontent.com/125589823/231734554-7793b730-9aef-4280-9d15-fff00a5c24c4.png)
+ 
 
 
 
