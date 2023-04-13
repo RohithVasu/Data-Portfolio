@@ -5,7 +5,7 @@
 * **Analytical and Data Visualization Tools:** Tableau, Advanced MS Excel (Pivot Tables, VLOOKUP, Macros)
 * **Statistical Analysis:** Hypothesis Testing, Regression Analysis, Time Series Analysis, Statistical Inference
 * **Machine Learning:** Classification and Regression Algorithms, Clustering Techniques, Hyperparameter Tuning, Feature Selection
-* **Database Management:** SQL (MySQL, PostgreSQL), ETL (Extract, Transform, Load)![image](https://user-images.githubusercontent.com/125589823/231734554-7793b730-9aef-4280-9d15-fff00a5c24c4.png)
+* **Database Management:** SQL (MySQL, PostgreSQL), ETL (Extract, Transform, Load)
  
 
 
