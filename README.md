@@ -12,7 +12,7 @@
 
 ## **Projects**
 **Data Engineering**
-* [Stock Data Webscraping with Tableau Dashboard:](https://github.com/RohithVasu/Data-Portfolio/tree/main/Data%20Engineering/Stock%20Data) This project scrapes historical stock data for MSFT, GOOG, NVDA, AMZN, and META using BeautifulSoup, stores it in a PostgreSQL database, and updates it daily with Apache Airflow. The data is presented in an interactive Tableau dashboard, offering technical analysis tools for in-depth insights. [Click here](https://public.tableau.com/app/profile/rohith7195/viz/StockMarketDashboard_16939563259380/StockMarketDashboard) to view the dashboard.
+* [Stock Data Webscraping with Tableau Dashboard:](https://github.com/RohithVasu/Data-Portfolio/tree/main/Data%20Engineering/Stock%20Data) This project scrapes historical stock data for MSFT, GOOG, NVDA, AMZN and META using BeautifulSoup, stores it in a PostgreSQL database, and updates it daily with Apache Airflow. The data is presented in an interactive Tableau dashboard, offering technical analysis tools for in-depth insights. [Click here](https://public.tableau.com/app/profile/rohith7195/viz/StockMarketDashboard_16939563259380/StockMarketDashboard) to view the dashboard.
 
 **Machine Learning**
 * [Home Loan Default Prediction:](https://github.com/RohithVasu/Data-Portfolio/blob/main/Machine%20Learning/Home%20Loan%20Default%20Prediction.ipynb) Trained and tested three classification models to predict the customers most likely to default home loan and find the best performing model among three.
