@@ -22,7 +22,7 @@ The Demographics section explores the composition of the workforce, showcasing t
 
 The Performance Tracker section facilitates detailed analysis of individual employee performance, including start date, last review date, and next review date. Performance ratings cover aspects like job satisfaction, employment satisfaction, work-life balance, relationship satisfaction, self-rating, and manager rating.
 
-![Performance Tracker Page](images/performance_tracker.png)
+![Performance Tracker Page](images/performance.png)
 
 ### Attrition
 
