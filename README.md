@@ -2,7 +2,7 @@
 
 ## **Skills**
 * **Programming Languages:** Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit – learn), SQL
-* **Analytical and Data Visualization Tools:** Tableau, Advanced MS Excel (Pivot Tables, VLOOKUP, Macros)
+* **Analytical and Data Visualization Tools:** Power BI, Tableau, Advanced MS Excel
 * **Statistical Analysis:** Hypothesis Testing, Regression Analysis, Time Series Analysis, Statistical Inference
 * **Machine Learning:** Classification and Regression Algorithms, Clustering Techniques, Hyperparameter Tuning, Feature Selection
 * **Database Management:** SQL (MySQL, PostgreSQL), ETL (Extract, Transform, Load)
