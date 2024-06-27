@@ -6,7 +6,7 @@ from langchain.vectorstores import Chroma
 import google.generativeai as genai
 
 # Set the environment variable for the API key
-os.environ['GEMINI_API_KEY'] = 'AIzaSyBWhyNY9PwVDY7PPu6BZqVfxGqFdPw97sY'
+os.environ['GEMINI_API_KEY'] = '********'
 
 # Function to read data from the JSON file
 def read_data(file_name):

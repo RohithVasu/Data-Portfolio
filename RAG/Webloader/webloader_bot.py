@@ -8,7 +8,7 @@ from langchain.vectorstores import Chroma
 import google.generativeai as genai
 
 # set gemini api key as environment variable
-os.environ['GEMINI_API_KEY'] = 'AIzaSyBWhyNY9PwVDY7PPu6BZqVfxGqFdPw97sY'
+os.environ['GEMINI_API_KEY'] = '************'
 
 def load_data(url):
     loader = WebBaseLoader(web_paths = (url,),
