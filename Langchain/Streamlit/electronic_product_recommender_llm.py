@@ -3,7 +3,7 @@ import google.generativeai as genai
 import streamlit as st
 
 # set gemini api key as environment variable
-os.environ['GEMINI_API_KEY'] = 'AIzaSyBWhyNY9PwVDY7PPu6BZqVfxGqFdPw97sY'
+os.environ['GEMINI_API_KEY'] = '********'
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 # Configure genai
@@ -31,12 +31,6 @@ for chat in st.session_state.chat_session.history:
 
 # Initial prompt to set the context for product recommendation
 if not st.session_state.initial_prompt_given:
-    #initial_prompt = (
-     #   "You are an electronic product recommender. Start by asking me what type of electronic product I am looking for, "
-      #  "and then continue to ask few short relevant questions based on my responses to recommend the best product."
-       #  "Please make it a conversational manner and stick to one question at a time."
-    #)
-
     initial_prompt = (
         """You are a helpful bot that recommends products based on preferences. \
           Start by asking me what type of electronic product I'm looking for and then continue to ask few question based on my responses to recommend the best product. \
